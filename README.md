@@ -1,5 +1,5 @@
 # Simple_Retinal_CNN_Example
-This is just a first example project for me to learn to apply CNN on an ophthamic example, in this case, a dataset with various labeled retinal diseases.
+This is the beginning of an example project for me to learn to apply CNN on an ophthamic example, in this case, a dataset with various labeled retinal diseases.
 The dataset is large and not included in the repository, but the links to the datasets on Kaggle are included in the notebook.
 This small program trains on a set of retinal images with labeled diseases, utilizing CUDA programming, and then classifies the same diseases for a test dataset.
 
